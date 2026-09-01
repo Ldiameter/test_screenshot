@@ -25,3 +25,7 @@
 ![Shield bash](screenshots/milestone4_shield_bash.png)
 
 ![Bound](screenshots/milestone4_bound.png)
+
+## Milestone 5
+
+![Mage rule chain](screenshots/milestone5_mage_chain.gif)

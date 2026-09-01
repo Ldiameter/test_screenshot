@@ -29,3 +29,9 @@
 ## Milestone 5
 
 ![Mage rule chain](screenshots/milestone5_mage_chain.gif)
+
+## Milestone 6
+
+Six real gameplay key frames, displayed for two seconds each:
+
+![Comprehensive encounter](screenshots/milestone6_comprehensive_encounter.gif)

@@ -51,3 +51,11 @@ Start/pause menu, compact debug HUD, overhead entity info, projectile impact, an
 Ranger/Mage mode persistence. Each key frame is displayed for two seconds.
 
 ![Playtest UI optimization](screenshots/playtest_ui_optimization.gif)
+
+## Combat usability update
+
+Enemy exit animation, Ranger auto-seeking and tactical target selection, ranged
+perfect-block reflection, Chinese UI, and combat feedback. Each key frame is
+displayed for two seconds.
+
+![Combat usability update](screenshots/combat_usability_update.gif)

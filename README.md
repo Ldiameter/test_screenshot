@@ -35,3 +35,10 @@
 Six real gameplay key frames, displayed for two seconds each:
 
 ![Comprehensive encounter](screenshots/milestone6_comprehensive_encounter.gif)
+
+## Playtest UI optimization
+
+Start/pause menu, compact debug HUD, overhead entity info, projectile impact, and
+Ranger/Mage mode persistence. Each key frame is displayed for two seconds.
+
+![Playtest UI optimization](screenshots/playtest_ui_optimization.gif)

@@ -2,6 +2,10 @@
 
 这个仓库只存放 `mark_two` 项目的公开演示截图，不包含项目源码。
 
+## 项目文档
+
+[查看《灵魂回响》Demo 项目结构与实现总结](PROJECT_IMPLEMENTATION_SUMMARY.md)
+
 ## Windows playtest build
 
 [Download SoulEchoes for Windows x64](downloads/SoulEchoes_Windows_x64.zip)

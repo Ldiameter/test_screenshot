@@ -63,3 +63,11 @@ perfect-block reflection, Chinese UI, and combat feedback. Each key frame is
 displayed for two seconds.
 
 ![Combat usability update](screenshots/combat_usability_update.gif)
+
+## Experimental Arena — Step 1
+
+Third-person 3D movement, the reused Hound charge, damage feedback, and solid wall
+collision. This is the Step 1 shell; Warrior combat is intentionally deferred to
+Step 2. Each key frame is displayed for two seconds.
+
+![Experimental Arena Step 1](screenshots/experimental_arena_step1.gif)

@@ -73,7 +73,7 @@ Step 2. Each key frame is displayed for two seconds.
 
 ![Experimental Arena Step 1](screenshots/experimental_arena_step1.gif)
 
-## Project Dissonance — Phase 1 Steps 1–3
+## Project Dissonance — Phase 1 Steps 1–6
 
 These are real Godot 4.7.2 OpenGL gameplay captures from the matching private
 source milestones. No project source files are published here.
@@ -81,6 +81,9 @@ source milestones. No project source files are published here.
 - Step 1 source commit: `b9dd0df` — arena skeleton and PartyRoot movement.
 - Step 2 source commit: `d6ba9c5` — three-character visual formation.
 - Step 3 source commit: `5bf98e2` — Focus marker, baseline auto combat, Party HP, and HUD.
+- Step 4 source commit: `f5be256` — Force Push, Wall IMPACT, and Spike Hazard.
+- Step 5 source commit: `3aad8a9` — two-target Link and 50% IMPACT propagation.
+- Step 6 source commit: `6cec866` — one-shot 100% Rewrite and Sia spirit form.
 
 ### Step 1
 
@@ -103,3 +106,11 @@ both enemies closing in, Ian and Zera auto attacks, enemy retaliation, and the
 shared Party HP changing during the same battle run.
 
 ![Project Dissonance Phase 1 Step 3 battle process](screenshots/project_dissonance_phase1_step3_combat.gif)
+
+### Steps 4–6 final state
+
+This real Godot 4.7.2 OpenGL capture shows the Wall and Spike Hazard, the active
+EnemyA–EnemyB Link, Rewrite armed at 100% for the next IMPACT, and Sia in her
+temporary spirit form.
+
+![Project Dissonance Phase 1 Steps 4–6 final state](screenshots/project_dissonance_phase1_step6_rewrite.png)

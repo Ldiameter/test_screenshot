@@ -95,3 +95,11 @@ source milestones. No project source files are published here.
 EnemyB is selected in this capture so the Focus marker is visible.
 
 ![Project Dissonance Phase 1 Step 3](screenshots/project_dissonance_phase1_step3.png)
+
+### Step 3 battle process
+
+This continuous real-render capture shows the formal click-ray Focus selection,
+both enemies closing in, Ian and Zera auto attacks, enemy retaliation, and the
+shared Party HP changing during the same battle run.
+
+![Project Dissonance Phase 1 Step 3 battle process](screenshots/project_dissonance_phase1_step3_combat.gif)

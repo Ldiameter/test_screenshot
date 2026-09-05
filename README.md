@@ -73,7 +73,7 @@ Step 2. Each key frame is displayed for two seconds.
 
 ![Experimental Arena Step 1](screenshots/experimental_arena_step1.gif)
 
-## Project Dissonance — Phase 1 Steps 1–6
+## Project Dissonance — Phase 1 Steps 1–7
 
 These are real Godot 4.7.2 OpenGL gameplay captures from the matching private
 source milestones. No project source files are published here.
@@ -84,6 +84,7 @@ source milestones. No project source files are published here.
 - Step 4 source commit: `f5be256` — Force Push, Wall IMPACT, and Spike Hazard.
 - Step 5 source commit: `3aad8a9` — two-target Link and 50% IMPACT propagation.
 - Step 6 source commit: `6cec866` — one-shot 100% Rewrite and Sia spirit form.
+- Step 7 source commit: `6b30a51` — full Force, Link, Rewrite core-chain validation.
 
 ### Step 1
 
@@ -114,3 +115,11 @@ EnemyA–EnemyB Link, Rewrite armed at 100% for the next IMPACT, and Sia in her
 temporary spirit form.
 
 ![Project Dissonance Phase 1 Steps 4–6 final state](screenshots/project_dissonance_phase1_step6_rewrite.png)
+
+### Step 7 core chain
+
+This real Godot 4.7.2 OpenGL capture follows the complete
+Force -> IMPACT -> Link -> Rewrite -> Force -> 100% Propagate sequence. The HUD
+shows the final rewritten propagation event after the one-shot Rewrite is consumed.
+
+![Project Dissonance Phase 1 Step 7 core chain](screenshots/project_dissonance_phase1_step7_core_chain.png)

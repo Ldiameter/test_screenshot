@@ -1,6 +1,7 @@
-# Soul Echoes screenshots
+# Public game prototype media
 
-这个仓库只存放 `mark_two` 项目的公开演示截图，不包含项目源码。
+这个仓库只存放 `mark_two` / Soul Echoes 与 Project Dissonance 的公开演示媒体，
+不包含任何项目源码。
 
 ## 项目文档
 
@@ -71,3 +72,26 @@ collision. This is the Step 1 shell; Warrior combat is intentionally deferred to
 Step 2. Each key frame is displayed for two seconds.
 
 ![Experimental Arena Step 1](screenshots/experimental_arena_step1.gif)
+
+## Project Dissonance — Phase 1 Steps 1–3
+
+These are real Godot 4.7.2 OpenGL gameplay captures from the matching private
+source milestones. No project source files are published here.
+
+- Step 1 source commit: `b9dd0df` — arena skeleton and PartyRoot movement.
+- Step 2 source commit: `d6ba9c5` — three-character visual formation.
+- Step 3 source commit: `5bf98e2` — Focus marker, baseline auto combat, Party HP, and HUD.
+
+### Step 1
+
+![Project Dissonance Phase 1 Step 1](screenshots/project_dissonance_phase1_step1.png)
+
+### Step 2
+
+![Project Dissonance Phase 1 Step 2](screenshots/project_dissonance_phase1_step2.png)
+
+### Step 3
+
+EnemyB is selected in this capture so the Focus marker is visible.
+
+![Project Dissonance Phase 1 Step 3](screenshots/project_dissonance_phase1_step3.png)

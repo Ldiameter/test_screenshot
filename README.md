@@ -85,8 +85,9 @@ source milestones. No project source files are published here.
 - Step 5 source commit: `3aad8a9` — two-target Link and 50% IMPACT propagation.
 - Step 6 source commit: `6cec866` — one-shot 100% Rewrite and Sia spirit form.
 - Step 7 source commit: `6b30a51` — full Force, Link, Rewrite core-chain validation.
-
+- Pre-Phase 2 UI polish source commit: `d5fa71a` — localized menu, overhead status, projectile, and speed tuning.
 ### Step 1
+
 
 ![Project Dissonance Phase 1 Step 1](screenshots/project_dissonance_phase1_step1.png)
 
@@ -123,3 +124,13 @@ Force -> IMPACT -> Link -> Rewrite -> Force -> 100% Propagate sequence. The HUD
 shows the final rewritten propagation event after the one-shot Rewrite is consumed.
 
 ![Project Dissonance Phase 1 Step 7 core chain](screenshots/project_dissonance_phase1_step7_core_chain.png)
+
+### Pre-Phase 2 UI polish
+
+Source commit `d5fa71a` adds the localized Chinese/English start and Esc pause
+menu, in-place reset, overhead HP/status indicators, Zera's projectile trajectory,
+and 80% movement speeds. Both images are real Godot 4.7.2 OpenGL captures.
+
+![Project Dissonance pre-Phase 2 menu](screenshots/project_dissonance_pre_phase2_ui_menu.png)
+
+![Project Dissonance pre-Phase 2 combat UI](screenshots/project_dissonance_pre_phase2_combat_ui.png)
